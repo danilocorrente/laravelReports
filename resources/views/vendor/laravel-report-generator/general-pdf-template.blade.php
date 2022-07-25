@@ -2,7 +2,22 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
+
 		<style>
+			.mt-1{
+				padding-top:5px;
+				padding-bottom:5px;
+			}
+			.smallFont{
+				font-size:12px;
+				border-top:1px solid black!important;
+				
+			}
+			.midFont{
+				padding-top:10px!important;
+				border-top:1px solid black!important;
+				font-size:18px;
+			}
 			body {
 			    font-family: Arial, Helvetica, sans-serif;
 			}
